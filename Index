@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Sammy's Homepage</title>
+		<style> 
+		li{
+			list-style-type: none;
+		}
+	</style>
+	</head>
+	<nav>
+		<ul>
+			<li> Home
+			<li> News
+			<li> Music
+			<li> Recipes
+			<li> About
+		</ul>
+	</nav>
+	<body style="background-color:#fcccbb;">
+		<h1 style="color:#1fa39a;">Sammy's Homepage</h1>
+		<p style="color:#c94257;"> Why hello Sammy, you sure are my friend and you sure are in my fridge. Here is your homepage that I have created for you.</p>
+		<p style="color:#c94257;"> On this page you can find out all the latest news headlines, keep up to date with current affairs such as when it is the weekend and also get comfortable.</p>
+		<p style="color:#c94257;"> Happy World Wide Web Browsing. </p>
+		<p style="color:#c94257;"> <a href="https://www.google.com/" target="_blank" rel="noopener nor">Here is a link to famous search engine Google. </a></p>
+		<p></p>
+		<p></p>
+		<h2 style="background-color: seagreen;color:#fcccbb;">   In Headlines Today</h2>
+		<ul>
+			<li> Marj finds a new slice of sun to sleep in </li>
+			<li> Nammy wants a tea </li>
+			<li> Sammy has an opinion </li>
+		</ul>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/V_cnK8Cd6Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+</html>
