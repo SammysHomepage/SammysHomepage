@@ -34,8 +34,10 @@ nav ul {
 	display: flex
 }
 
-nav a:hover{
-	background color: green;
+nav a{
 	text-decoration: none;
 }
 
+nav a:hover{
+	background-color: green;
+}
