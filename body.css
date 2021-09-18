@@ -2,9 +2,13 @@ Body {
 	background-color: #fcccbb;
 }
 
+Body ul{
+	list-style-type: circle;
+}
+
 p {
 	color: #c94257;
-{
+}
 
 h1 {
 	color: #1fa39a;
@@ -13,7 +17,7 @@ h1 {
 h2 {
 	color: pink;
 	background-color: #1fa39a;
-{
+}
 
 /* Navigation Menu Styles */
 
@@ -23,7 +27,7 @@ nav {
 }
 nav li{
 	Margin: 0 2vw;
-	}
+}
 nav ul {
 	list-style-type: none;
 	Margin: 0;
