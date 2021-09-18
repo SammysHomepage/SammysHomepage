@@ -10,6 +10,7 @@ li{
 ul {
 	Margin: 0;
 	padding: 0;
+	display: flex
 }
 
 Body {
