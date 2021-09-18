@@ -19,8 +19,8 @@ h2 {
 /* Navigation Menu Styles */
 
 nav {
-	text-align: center;
 	width:100vw;
+	text-align: center;
 	background-color: seagreen;
 	color: #fcccbb;
 }
