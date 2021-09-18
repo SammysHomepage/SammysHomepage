@@ -3,11 +3,11 @@ nav {
 	text-align: center;
 	width:100vw;
 }
-li{
+nav li{
 	list-style-type: none;
 	Margin: 0 2vw;
 	}
-ul {
+nav ul {
 	Margin: 0;
 	padding: 0;
 	display: flex
