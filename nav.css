@@ -1,6 +1,8 @@
 /* nav.css */
 nav {
-	text-align: right;	
+	text-align: right;
+	width:100vw;
+	background-colour: #D6EFFF;
 }
 li{
 		list-style-type: none;
