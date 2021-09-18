@@ -2,14 +2,6 @@ Body {
 	background-color: #fcccbb;
 }
 
-Body ul{
-	list-style-type: none;
-}
-
-Body li: Before {
-	content: "\2665 020";
-}
-
 p {
 	color: #c94257;
 }
