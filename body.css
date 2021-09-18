@@ -34,3 +34,7 @@ nav ul {
 	display: flex
 }
 
+nav a:hover{
+	background color: green;
+}
+
