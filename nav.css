@@ -1,8 +1,8 @@
 /* nav.css */
 nav {
-	text-align: right;
+	text-align: center;
 	width:100vw;
-	background-colour: #D6EFFF;
+	background-colour: lightblue;
 }
 li{
 		list-style-type: none;
