@@ -21,8 +21,7 @@ h2 {
 nav {
 	width:100vw;
 	margin: 0 auto;
-	display: inline-block;
-	text-align: center;
+	text-align:center;
 	background-color: seagreen;
 	color: #fcccbb;
 	position: fixed;
@@ -32,19 +31,19 @@ nav {
 }
 nav li{
 	Margin: 0 2vw;
-	display: inline-block;
+	display: inline;
 	text-align: center;
 }
 nav ul {
 	list-style-type: none;
 	Margin: 0;
 	padding: 0;
-	display: inline-block;
 	text-align: center;
 	display: flex
 }
 
 nav a{
+	display: inline-block;
 	text-align: center;
 	text-decoration: none;
 	color: #fcccbb;
