@@ -5,7 +5,8 @@ nav {
 	background-colour: lightblue;
 }
 li{
-		list-style-type: none;
+	list-style-type: none;
+	Margin: 0 2vw;
 	}
 ul {
 	Margin: 0;
