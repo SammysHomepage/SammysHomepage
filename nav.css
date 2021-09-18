@@ -1,5 +1,5 @@
+/* nav.css */
 nav {
-	li{
-			list-style-type: none;
-		}
+	text-align: right;
+	list-style-type: none;
 }
