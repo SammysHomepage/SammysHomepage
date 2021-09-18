@@ -20,6 +20,7 @@ h2 {
 
 nav {
 	width:100vw;
+	margin: 0;
 	text-align: center;
 	background-color: seagreen;
 	color: #fcccbb;
