@@ -1,5 +1,12 @@
 Body {
-	Margin: 0;
-  li{
-  list-style-type: circle;  
+	background-color: #fcccbb;
+	color: #c94257;
 }
+
+h1 {
+	color: #1fa39a;
+}
+h2 {
+	background-color: seagreen;
+	color: #fcccbb
+{
