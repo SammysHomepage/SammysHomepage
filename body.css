@@ -1,11 +1,15 @@
 Body {
 	background-color: #fcccbb;
-	color: #c94257;
 }
+
+p {
+	color: #c94257;
+{
 
 h1 {
 	color: #1fa39a;
 }
+
 h2 {
 	color: pink;
 	background-color: #1fa39a;
