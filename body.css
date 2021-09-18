@@ -20,6 +20,7 @@ h2 {
 nav {
 	text-align: center;
 	width:100vw;
+	background-color: lightblue;
 }
 nav li{
 	Margin: 0 2vw;
