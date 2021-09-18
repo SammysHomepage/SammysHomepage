@@ -23,6 +23,8 @@ nav {
 	text-align: center;
 	background-color: seagreen;
 	color: #fcccbb;
+	position: fixed;
+	top: o;
 	
 }
 nav li{
