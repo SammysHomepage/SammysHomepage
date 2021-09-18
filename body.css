@@ -3,7 +3,7 @@ Body {
 }
 
 Body ul{
-	list-style-type: circle;
+	list-style-type: &hearts;
 }
 
 p {
@@ -15,8 +15,8 @@ h1 {
 }
 
 h2 {
-	color: pink;
-	background-color: #1fa39a;
+	color: #fcccbb;
+	background-color: seagreen;
 }
 
 /* Navigation Menu Styles */
