@@ -1,7 +1,7 @@
 /* nav.css */
 nav {
 	text-align: right;
-	li{
+	ul{
 		list-style-type: none;
 	}
 }
